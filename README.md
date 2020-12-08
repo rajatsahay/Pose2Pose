@@ -20,3 +20,9 @@ If you find this implementation useful, please consider citing the original pape
   bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
+This is an implementation of Chan et al's paper, which uses a pix2pix-based method to transfer poses from a source to a generated image.<br>
+Here are some preleminary results of the paper that I was able to replicate
+![Pose Transfer](https://github.com/rajatsahay/Pose2Pose/blob/master/assets/PoseGraph.PNG)
+<br><br>
+I was also able to achieve a viable loss for the generator and the discriminator networks sampled here:
+![Pose Transfer](https://github.com/rajatsahay/Pose2Pose/blob/master/assets/GenDisLoss.PNG)
