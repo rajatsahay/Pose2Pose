@@ -1,7 +1,7 @@
 # Pose2Pose
 Full Body Deepfakes <br>
 Everybody Dance Now: https://arxiv.org/pdf/1808.07371.pdf <br>
-If you find thsis implementation useful, please consider citing the original paper:
+If you find this implementation useful, please consider citing the original paper:
 ```
 @article{DBLP:journals/corr/abs-1808-07371,
   author    = {Caroline Chan and
